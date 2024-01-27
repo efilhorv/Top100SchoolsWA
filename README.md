@@ -12,7 +12,7 @@ Technologies Used
 ## MySQL
 ## Python
 ## QlikView
-## GeoJSON
+## [GeoJSON](https://github.com/efilhorv/Top100SchoolsWA/tree/Data_Geojson)
 ## Database Setup
 To get started with the project, follow these steps:
 
