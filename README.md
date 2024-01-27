@@ -14,6 +14,7 @@ Technologies Used
 ## [QlikView](https://github.com/efilhorv/Top100SchoolsWA/tree/Qlik)
 ## [GeoJSON](https://github.com/efilhorv/Top100SchoolsWA/tree/Data_Geojson)
 ## [Database](https://github.com/efilhorv/Top100SchoolsWA/tree/Data)
+## [HTML](https://github.com/efilhorv/Top100SchoolsWA/tree/Data_Html)
 To get started with the project, follow these steps:
 
 Create a MySQL database: Set up a MySQL database to store the necessary data.
