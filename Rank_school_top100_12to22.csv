@@ -1,0 +1,101 @@
+﻿2020_Rank;School_Name;Median_ATAR;No_eligible_Yr_12_students;No_Students_with_an_ATAR;Perc_students_with_an_ATAR;Location;Postcode;State;Socio_Economi_Status;State_Overall_Score;Better_Education_Percentile;English;Maths;Total_Students;Code
+1;Perth Modern School;97.55;242;242;100;Subiaco;6008;WA;98;100;1%;5;5;1449;4042
+2;St Hilda'S Anglican School For Girls;92.7;147;134;91.16;Mosman Park;6012;WA;96;99;4%;5;5;1129;1122
+3;Christ Church Grammar School;92.5;190;175;92.11;Claremont;6010;WA;97;100;1%;5;5;1776;1041
+4;Penrhos College;90.65;135;116;85.93;Como;6152;WA;96;98;6%;5;4;1048;1152
+5;Methodist Ladies' College;90.55;126;112;88.89;Claremont;6010;WA;97;99;3%;5;5;1068;1042
+6;Hale School;90.35;194;169;87.11;Wembley Downs;6019;WA;96;99;2%;5;5;1625;1193
+7;St Mary'S Anglican Girls' School;90.3;153;128;83.66;Karrinyup;6018;WA;96;99;3%;5;5;1474;1157
+8;John Xxiii College;89.5;168;132;78.57;Mount Claremont;6010;WA;96;99;4%;5;5;1578;1249
+9;Perth College;89.4;129;116;89.92;Mount Lawley;6050;WA;95;98;5%;4;5;1020;1125
+10;Santa Maria College;89.35;176;120;68.18;Attadale;6156;WA;95;95;12%;3;4;1350;1008
+11;Presbyterian Ladies College;89.2;109;97;88.99;Peppermint Grove;6011;WA;95;96;5%;4;4;963;1147
+12;Kennedy Baptist College;88.95;167;84;50.3;Murdoch;6150;WA;95;96;10%;4;4;1226;1396
+13;Carmel School;88.85;33;32;96.97;Dianella;6059;WA;96;100;1%;5;5;419;1231
+14;Shenton College;88.6;343;246;71.72;Shenton Park;6008;WA;96;99;2%;5;5;2800;4168
+15;Mercedes College;88.55;139;101;72.66;Perth;6000;WA;95;95;12%;4;3;852;1149
+16;Rossmoyne Senior High School;88.4;368;274;74.46;Rossmoyne;6148;WA;95;100;1%;5;5;2605;4048
+17;Iona Presentation College;87.8;134;91;67.91;Mosman Park;6012;WA;95;96;11%;4;4;1322;1121
+18;Willetton Senior High School;87.75;393;277;70.48;Willetton;6155;WA;95;100;2%;5;5;2710;4126
+19;Sacred Heart College;87.6;229;147;64.19;Sorrento;6020;WA;95;95;12%;3;4;1479;1109
+20;Mount Lawley Senior High School;86.45;234;152;64.96;Mount Lawley;6050;WA;93;97;8%;4;5;1969;4038
+21;All Saints' College;86.35;146;120;82.19;Bull Creek;6149;WA;96;99;2%;5;5;1415;1277
+22;Churchlands Senior High School;85.9;415;263;63.37;Churchlands;6018;WA;95;97;9%;4;4;2416;4012
+23;Aquinas College;85.85;174;108;62.07;Salter Point;6152;WA;95;95;14%;2;4;1336;1107
+24;Scotch College;85.35;175;130;74.29;Swanbourne;6010;WA;96;98;5%;4;5;1538;1171
+25;John Curtin College Of The Arts;85.25;224;146;65.18;Fremantle;6160;WA;95;98;6%;4;5;1772;4025
+25;Mazenod College;85.25;122;61;50;Lesmurdie;6076;WA;80;93;18%;2;3;849;1102
+27;Our Lady Of Mercy College;85.2;54;25;46.3;Australind;6233;WA;81;94;11%;3;4;871;1526
+28;Corpus Christi College;84.95;228;140;61.4;Bateman;6150;WA;95;95;13%;3;4;1823;1299
+29;Bunbury Cathedral Grammar School;84.8;75;61;81.33;Gelorup;6230;WA;95;97;8%;3;5;662;1222
+29;Chisholm Catholic College;84.8;234;126;53.85;Bedford;6052;WA;85;96;10%;4;4;1719;1085
+31;St Stephen'S School;84.75;194;107;55.15;Duncraig;6023;WA;95;94;15%;3;3;2205;1309
+32;Duncraig Senior High School;84.5;190;95;50;Duncraig;6023;WA;84;95;14%;3;4;1791;4129
+32;Mandurah Catholic College;84.5;199;83;41.71;Mandurah;6210;WA;89;94;14%;3;4;1702;1380
+34;Applecross Senior High School;84.3;234;145;61.97;Ardross;6153;WA;95;98;5%;5;5;1853;4002
+35;Comet Bay College;84;245;52;21.22;Secret Harbour;6173;WA;81;93;18%;3;3;1754;4176
+35;John Septimus Roe Anglican Community School;84;167;84;50.3;Mirrabooka;6061;WA;81;93;18%;3;3;1704;1378
+37;Wesley College;83.9;144;119;82.64;South Perth;6151;WA;96;99;3%;5;5;1308;1154
+38;Providence Christian College;83.85;57;35;61.4;Southern River;6110;WA;95;97;9%;4;4;879;1314
+39;Butler College;83.7;170;36;21.18;Butler;6036;WA;95;97;10%;4;4;1216;4191
+40;John Wollaston Anglican Community School;83.3;75;29;38.67;Camillo;6111;WA;78;91;23%;2;2;1204;1357
+41;Ursula Frayne Catholic College;83.15;115;82;71.3;Victoria Park;6100;WA;95;96;10%;3;4;1492;1369
+42;St Norbert College;83;136;43;31.62;Queens Park;6107;WA;75;94;15%;3;4;917;1162
+43;Trinity College;82.85;136;90;66.18;East Perth;6004;WA;95;98;7%;3;5;1323;1151
+44;Newman College;82.7;171;112;65.5;Churchlands;6018;WA;95;94;15%;3;3;1888;1259
+45;Georgiana Molloy Anglican School;82.6;62;39;62.9;Yalyalup;6280;WA;84;94;16%;3;3;1194;1429
+46;Mercy College;82.5;166;57;34.34;Koondoola;6064;WA;84;94;16%;3;3;1614;1221
+47;Carine Senior High School;82.35;197;85;43.15;Carine;6020;WA;90;96;9%;3;4;2405;4057
+47;Margaret River Senior High School;82.35;116;46;39.66;Margaret River;6285;WA;90;96;9%;3;4;1162;4033
+49;Christian Brothers' College;82.2;112;66;58.93;Fremantle;6160;WA;90;93;19%;2;3;885;1063
+50;Kingsway Christian College;81.65;102;77;75.49;Darch;6065;WA;95;96;11%;3;4;1428;1312
+51;Living Waters Lutheran College;81.5;57;21;36.84;Warnbro;6169;WA;95;96;11%;3;4;728;1408
+52;Guildford Grammar School;81.35;107;81;75.7;Guildford;6055;WA;95;94;15%;3;3;1312;1074
+53;La Salle College;81.25;208;59;28.37;Middle Swan;6056;WA;95;94;15%;3;3;1340;1223
+53;Swan Valley Anglican Community School;81.25;82;41;50;Aveley;6069;WA;71;92;20%;2;3;1336;1464
+55;Peter Moyes Anglican Community School;81.05;90;57;63.33;Mindarie;6030;WA;86;92;22%;2;3;1388;1428
+56;John Calvin Christian College;80.95;46;31;67.39;Armadale;6112;WA;71;99;4%;5;5;371;1358
+57;Belmont City College;80.85;97;26;26.8;Belmont;6104;WA;71;99;4%;5;5;952;4005
+58;Emmanuel Catholic College;80.8;162;43;26.54;Success;6164;WA;95;95;13%;3;4;1155;1432
+58;St Mark'S Anglican Community School;80.8;154;113;73.38;Hillarys;6025;WA;95;95;13%;3;4;1849;1325
+60;Prendiville Catholic College;80.45;159;85;53.46;Ocean Reef;6027;WA;83;92;20%;3;3;1058;1326
+61;Melville Senior High School;80.35;197;92;46.7;Melville;6156;WA;77;96;11%;3;4;1380;4034
+62;Carey Baptist College;80.3;114;69;60.53;Harrisdale;6112;WA;95;99;3%;5;5;1549;1415
+62;Tranby College;80.3;64;27;42.19;Baldivis;6171;WA;95;99;3%;5;5;829;1406
+64;Manjimup Senior High School;80.05;100;28;28;Manjimup;6258;WA;95;95;14%;3;4;556;4032
+65;Servite College;80;152;67;44.08;Tuart Hill;6060;WA;95;95;16%;3;4;990;1178
+66;Cape Naturaliste College;79.95;110;35;31.82;Vasse;6280;WA;83;92;22%;3;2;1090;4178
+67;Esperance Senior High School;79.9;124;42;33.87;Esperance;6450;WA;63;92;21%;3;2;808;4018
+68;Canning Vale College;79.8;207;82;39.61;Canning Vale;6155;WA;63;92;21%;3;2;1342;4174
+69;Frederick Irwin Anglican School;79.65;120;92;76.67;Mandurah;6210;WA;80;95;13%;3;4;1646;1373
+70;St Mary Mackillop College;79.3;97;51;52.58;Busselton;6280;WA;72;91;22%;2;3;1625;1394
+71;Bunbury Catholic College;78.95;93;34;36.56;Bunbury;6230;WA;72;91;22%;2;3;931;1029
+71;Lesmurdie Senior High School;78.95;124;44;35.48;Lesmurdie;6076;WA;64;93;18%;3;3;976;4133
+73;Denmark Senior High School;78.9;47;20;42.55;Denmark;6333;WA;64;93;18%;3;3;424;4072
+74;John Forrest Secondary College;78.7;161;52;32.3;Morley;6062;WA;62;90;24%;2;2;1092;4026
+75;Ashdale Secondary College;78.65;218;84;38.53;Darch;6065;WA;64;91;24%;3;2;1826;4181
+76;Australind Senior High School;78.4;147;35;23.81;Australind;6233;WA;64;91;24%;3;2;1135;4146
+77;Woodvale Secondary College;77.65;211;100;47.39;Woodvale;6026;WA;79;93;17%;3;3;1341;4144
+78;Helena College;77.35;68;62;91.18;Glen Forrest;6071;WA;95;96;11%;3;4;751;1055
+79;Bunbury Senior High School;77.3;107;40;37.38;Bunbury;6230;WA;95;96;11%;3;4;964;4008
+80;Lake Joondalup Baptist College;77.25;133;85;63.91;Joondalup;6027;WA;95;92;20%;2;3;1412;1366
+81;Manea Senior College;77.05;334;90;26.95;Bunbury;6230;WA;95;92;22%;2;3;490;4179
+81;Nagle Catholic College;77.05;131;54;41.22;Geraldton;6530;WA;95;96;24%;3;3;1183;1068
+83;Ocean Reef Senior High School;76.35;143;58;40.56;Ocean Reef;6027;WA;95;92;25%;2;2;1301;4140
+84;Great Southern Grammar School;76.05;83;54;65.06;Kalgan;6330;WA;95;92;25%;2;2;634;1431
+85;Al-Ameen College;75.9;37;26;70.27;Langford;6147;WA;90;97;7%;4;4;1183;1463
+86;Greenwood College;75.75;125;46;36.8;Greenwood;6024;WA;69;91;23%;2;3;986;4122
+87;Como Secondary College;75.7;126;77;61.11;Como;6152;WA;83;92;20%;2;3;818;4049
+88;Ellenbrook Christian College;75.65;43;22;51.16;Ellenbrook;6069;WA;71;90;25%;2;2;662;1424
+89;Leeming Senior High School;75.6;147;65;44.22;Leeming;6149;WA;81;96;10%;3;5;1136;4143
+90;Broome Senior High School;75.45;94;36;38.3;Broome;6725;WA;78;90;25%;2;2;775;4064
+91;Seton Catholic College;75.35;153;60;39.22;Samson;6163;WA;82;96;10%;3;5;1026;1368
+92;Joseph Banks Secondary College;74.95;203;51;25.12;Banksia Grove;6031;WA;81;90;18%;2;5;1447;4192
+93;Kent Street Senior High School;74.65;134;45;33.58;East Victoria Park;6101;WA;84;90;19%;2;4;1126;4029
+93;Swan Christian College;74.65;163;64;39.26;Middle Swan;6056;WA;77;90;25%;2;2;1538;1304
+95;Geraldton Grammar School;74.45;42;34;80.95;Geraldton;6530;WA;85;94;16%;3;4;605;1403
+96;Lynwood Senior High School;74.35;228;48;21.05;Parkwood;6147;WA;84;93;18%;3;4;1172;4113
+97;Kolbe Catholic College;74.25;158;65;41.14;Rockingham;6168;WA;70;91;23%;2;3;1217;1353
+98;Holy Cross College;74.2;83;37;44.58;Ellenbrook;6069;WA;76;90;28%;2;2;1314;1450
+99;St Brigid'S College;73.85;103;61;59.22;Lesmurdie;6076;WA;75;90;25%;2;2;811;1103
+100;Morley Senior High School;73.7;161;71;44.1;Noranda;6062;WA;74;88;29%;2;2;1033;4051

@@ -1,0 +1,173 @@
+﻿OBJECTID;ROUTE_NUM;ROUTE_NAME;ASSET_OWNER;CLASSIFICATION;INFRASTRUCT_TYPE;STATUS;PROGRAM;LAST_EDITED_DATE;SHAPE_Length
+1033;55;Pier Street;City of Perth;Integrated Cycling Route;Integrated;Future works; ;20/02/2019;0.000792725094803379
+1034;67;Claisebrook Cove;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Existing - to be retained;;20/02/2019;0.00870326721523211
+1035;34;Palmerston Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.00179091194724757
+1036;28;Roe Street;WA Government;Regional Route;Shared path;Current works;Cycle Plan - 2016/17;20/02/2019;0.00441681471865053
+1037;25;Milligan Street;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2017/18;20/02/2019;0.00175888273123563
+1038;12;RSP Network (Eastern Foreshore);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.0041344337300303
+1039;23;Mount Street;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00301986799526564
+1040;1;Loftus / Thomas Street;City of Perth;City Cycle Route;Shared path;Existing - to be upgraded; ;20/02/2019;0.00649138097515572
+1041;12;RSP Network (Eastern Foreshore);WA Government;Regional Route;Shared path;Current works;N/A - Work by others;20/02/2019;0.00286141705384484
+1042;77;Hampden Stirling Winthrop;City of Perth;City Cycle Route;Shared path;Future works;;20/02/2019;0.00716646035787028
+1043;20;Colin Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2018/19;20/02/2019;0.00919857089772596
+1044;2;PSP Network (Rail Line);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.0101134487850599
+1045;16;Hackett Drive;City of Perth;City Cycle Route;To be determined;Future works;Cycle Plan - 2020/21;20/02/2019;0.00183328005298558
+1046;17;Hay Street;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Future works;;20/02/2019;0.0034467519184408
+1047;37;Mountain Terrace;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00111261295537518
+1048;10;RSP Network (Hackett Drv;WA Government;Regional Route;Shared path;Existing - to be retained;;20/02/2019;0.00126447248456006
+1049;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.00230423388961714
+1050;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2018/19;20/02/2019;0.000561227153779972
+1051;41;Loading...;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00120142357700982
+1052;12;RSP Network (Eastern Foreshore);WA Government;Regional Route;Shared path;Temporary alignment; ;20/02/2019;0.00351863027971806
+1053;4;PSP Network (Freeway);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.0148814524666682
+1054;26;Harvest Terrace;City of Perth;Integrated Cycling Route;Two way dedicated cycleway;Existing - to be retained;;20/02/2019;0.00159366623452454
+1055;52;Sherwood Crescent;City of Perth;Integrated Cycling Route;Integrated;Future works; ;20/02/2019;0.0015108957848536
+1056;26;Harvest Terrace;City of Perth;Integrated Cycling Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00221232109810634
+1057;65;East Parade;WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00299616545330448
+1058;17;Hay Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.00501535297876853
+1059;59;Trafalgar Bridge;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Future works;Cycle Plan - 2016/17;20/02/2019;0.00203667531551582
+1060;28;Roe Street;City of Perth;City Cycle Route;Shared path;Current works;Cycle Plan - 2016/17;20/02/2019;0.00267338475570286
+1061;48;Yagan Square / Queen Street;WA Government;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00279469785864313
+1062;64;Fielder Street;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2017/18;20/02/2019;0.00201244156614664
+1063;39;Francis St;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.0072548766276989
+1064;4;PSP Network (Freeway);WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.000214486279409002
+1065;1;Loftus / Thomas Street;City of Perth;Regional Route;Shared path;Existing - to be upgraded;Cycle Plan - 2018/19;20/02/2019;0.00611384494764333
+1066;2;Perth Arena Private Connection;Private;Regional Route;Shared path;Existing - to be retained;;20/02/2019;0.0018764461293013
+1067;7;RSP Network (Mounts Bay Road);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00342192018296918
+1068;1;Loftus / Thomas Street;To be determined;Regional Route;Shared path;Future works;Cycle Plan - 2019/20;20/02/2019;0.0289086026917151
+1069;14;Murray Street;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Future works;;20/02/2019;0.00339426893545194
+1070;17;Hay Street;City of Perth;Integrated Cycling Route;Integrated;Existing - to be retained; ;20/02/2019;0.00201226271238638
+1071;72;The Avenue;City of Perth;City Cycle Route;Cycle lane;Future works;;20/02/2019;0.0030986155852431
+1072;62;Bennett Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2020/21;20/02/2019;0.00952204337715864
+1073;63;Kensington Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2017/18;20/02/2019;0.00709631279125426
+1074;31;Barrack Street;City of Perth;City Cycle Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00102941759499331
+1075;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2017/18;20/02/2019;0.000505564625677793
+1076;12;RSP Network (Eastern Foreshore);WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.00137532175286603
+1077;2;PSP Network (Rail Line);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00217563750260789
+1078;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.00256502000592908
+1079;7;RSP Network (Mounts Bay Road);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.0344990724446327
+1080;38;James Street;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Future works;;20/02/2019;0.00264024616250154
+1081;4;PSP Network (Freeway);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00851692909488243
+1082;1;Loftus / Thomas Street;City of Perth;Regional Route;Shared path;Future works;Cycle Plan - 2017/18;20/02/2019;0.00244092321639302
+1083;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.00208483441359799
+1084;42;William Street;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00462249490786395
+1085;75;Hampden Rd;City of Perth;City Cycle Route;To be determined;Future works;;20/02/2019;0.00488613447164084
+1086;42;William Street;WA Government;Pedestrian Priority Zone;Pedestrian priority zone;Future works;Cycle Plan - 2020/21;20/02/2019;0.00135092540660586
+1087;14;Murray Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2017/18;20/02/2019;0.0118259710739486
+1088;24;Mount Street Bridge;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Existing - to be retained; ;20/02/2019;0.00140318606708747
+1089;14;Murray Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00213685317082324
+1090;1;Loftus / Thomas Street;City of Perth;Regional Route;Shared path;Existing - to be upgraded;Cycle Plan - 2017/18;20/02/2019;0.00308468710521154
+1091;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be retained; ;20/02/2019;0.000288033567584317
+1092;25;Loading...;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00122073457507972
+1093;73;Fairway;City of Perth;City Cycle Route;Cycle lane;Future works;;20/02/2019;0.00971393042767879
+1094;14;Murray Street;City of Perth;City Cycle Route;Separated Contra Flow;Existing - to be removed;Cycle Plan - 2019/20;20/02/2019;0.0040122296818329
+1095;30;The Esplanade;City of Perth;Integrated Cycling Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00344273927185293
+1096;7;RSP Network (Mounts Bay Road);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00483287446679535
+1097;101;Milligan Street;Private;Pedestrian Priority Zone;Pedestrian priority zone;Existing - to be retained;;20/02/2019;0.00119950851705485
+1098;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.0024036518616073
+1099;35;Shenton Street;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00213921458505409
+1100;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2016/17;20/02/2019;0.00311035939787778
+1101;7;RSP Network (Mounts Bay Road);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00589695041567458
+1102;54;Duchess Way;City of Perth;Integrated Cycling Route;Integrated;Future works; ;20/02/2019;0.000827599465486469
+1103;62;Bennett Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2020/21;20/02/2019;0.00950413309227266
+1104;17;Hay Street;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2018/19;20/02/2019;0.00797984921591839
+1105;17;Hay Street;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Future works; ;20/02/2019;0.00109589755369968
+1106;6;PSP Network (Freeway);WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.0103996094791261
+1107;11;RSP Network (Causeway);WA Government;Regional Route;Shared path;Existing - to be upgraded; ;20/02/2019;0.00659148583260346
+1108;8;RSP Network (Riverside Drive);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00874762309417522
+1109;18;Wellington Street;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Existing - to be retained; ;20/02/2019;0.00231509364102462
+1110;18;Wellington Street;City of Perth;City Cycle Route;Shared path;Existing - to be retained; ;20/02/2019;0.00202525031446098
+1111;53;Enchantress Way;City of Perth;Integrated Cycling Route;Integrated;Future works; ;20/02/2019;0.000841055049914037
+1112;25;Milligan Street;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2017/18;20/02/2019;0.000815150848347716
+1113;68;Point Fraser;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Future works; ;20/02/2019;0.00610985692721742
+1114;74;Stirling Hwy;City of Perth;City Cycle Route;Shared path;Future works;;20/02/2019;0.00417674963895759
+1115;7;RSP Network (Mounts Bay Road);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00309235160619411
+1116;;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2018/19;20/02/2019;0.000542183967959387
+1117;19;Elder Street;WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.00146169953692238
+1118;14;Murray Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00211936483719521
+1119;42;William Street;City of Perth;City Cycle Route;Shared path;Existing - to be retained; ;20/02/2019;0.00294458496932982
+1120;36;Loading...;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00214488787817494
+1121;32;Stirling Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00443213315082267
+1122;14;Murray Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2017/18;20/02/2019;0.0119219042193982
+1123;22;Cliff Street;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.0011921798813973
+1124;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be retained; ;20/02/2019;0.000295063101801995
+1125;38;Loading...;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00130196182151146
+1126;8;RSP Network (Riverside Drive);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.0242696492494558
+1127;76;Monash Ave;City of Perth;City Cycle Route;Shared path;Future works;;20/02/2019;0.00461954380154407
+1128;8;RSP Network (Riverside Drive);City of Perth;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.0044941326406361
+1129;73;Fairway;City of Perth;City Cycle Route;Cycle lane;Future works;;20/02/2019;0.00967754799788639
+1130;4;PSP Network (Freeway);City of Perth;Regional Route;Shared path;Existing - to be upgraded; ;20/02/2019;0.000667897520249826
+1131;20;Colin Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2018/19;20/02/2019;0.00930064778137978
+1132;9;Hackett Drive;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.0142130459880716
+1133;2;PSP Network (Rail Line);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.000467476668063466
+1134;71;Princess Road;City of Perth;City Cycle Route;Cycle lane;Future works;;20/02/2019;0.00375783408890853
+1135;38;Loading...;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00587316558517508
+1136;99;PSP - Other LG;WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.00327219895765542
+1137;57;Moore Street;To be determined;Pedestrian Priority Zone;Pedestrian priority zone;Future works; ;20/02/2019;0.00773005493366441
+1138;12;RSP Network (Eastern Foreshore);WA Government;Regional Route;Shared path;Existing - to be upgraded; ;20/02/2019;0.00490690319522547
+1139;61;Brown Street;City of Perth;Integrated Cycling Route;Integrated;Existing - to be retained;;20/02/2019;0.00162782940425253
+1140;1;Loftus / Thomas Street;WA Government;Regional Route;Cycle lane;Existing - to be retained; ;20/02/2019;0.00616526953217325
+1141;56;Irwin Street;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2018/19;20/02/2019;0.0012083355686983
+1142;12;RSP Network (Eastern Foreshore);WA Government;Regional Route;Shared path;Existing - to be upgraded;N/A - Work by others;20/02/2019;0.0031854123796806
+1143;100;RSP Network (Hackett Drv;City of Perth;City Cycle Route;Shared path;Existing - to be upgraded;;20/02/2019;0.0174217474923506
+1144;1;Loftus / Thomas Street;WA Government;Regional Route;Cycle lane;Existing - to be retained; ;20/02/2019;0.00611445077255535
+1145;47;Yagan Square;WA Government;Integrated Cycling Route;Integrated;Current works;;20/02/2019;0.00160678059588474
+1146;62;Bennett Street;City of Perth;City Cycle Route;Shared path;Future works;Cycle Plan - 2020/21;20/02/2019;0.00144303013100275
+1147;31;Barrack Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00711603805292321
+1148;32;Stirling Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00464355502318406
+1149;28;Roe Street;City of Perth;City Cycle Route;Shared path;Existing - to be upgraded;;20/02/2019;0.00858307867903154
+1150;44;Cultural Centre;City of Perth;Loading...;Pedestrian priority zone;Future works;;20/02/2019;0.00292943194622905
+1151;28;Roe Street;City of Perth;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00740974289136526
+1152;50;St Georges Terrace;City of Perth;Integrated Cycling Route;Integrated;Future works; ;20/02/2019;0.00337012723227983
+1153;99;PSP - Other LG;WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.00516273511469366
+1154;9;Hackett Drive;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.0141464442744315
+1155;72;The Avenue;City of Perth;City Cycle Route;Cycle lane;Future works;;20/02/2019;0.00315001487542841
+1156;14;Murray Street;City of Perth;Integrated Cycling Route;Integrated;Existing - to be retained; ;20/02/2019;0.00341414919947178
+1157;13;RSP Network (Eastern Foreshore);WA Government;Regional Route;Shared path;Existing - to be retained;;20/02/2019;0.00431099765982064
+1158;45;Mercantile Lane;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00188551425351177
+1159;33;Loading...;Loading...;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.00235500211123372
+1160;8;RSP Network (Riverside Drive);WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.000342237238537986
+1161;71;Princess Road;City of Perth;City Cycle Route;Cycle lane;Future works;;20/02/2019;0.00406823880259803
+1162;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2016/17;20/02/2019;0.00312694791904819
+1163;46;King Street;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00379819670605545
+1164;27;Hay Street Connection;City of Perth;Integrated Cycling Route;Shared path;Existing - to be retained;;20/02/2019;0.00118051344223709
+1165;13;RSP Network (Eastern Foreshore);WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00402186023086438
+1166;3;PSP Network (George Street);WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.00489056658271683
+1167;63;Kensington Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2017/18;20/02/2019;0.0070209155896105
+1168;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;Cycle Plan - 2018/19;20/02/2019;0.00240908153221862
+1169;66;East Parade;City of Perth;City Cycle Route;Cycle lane;Existing - to be retained;;20/02/2019;0.00501077967395685
+1170;5;PSP Network (Freeway);WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.00454533931262264
+1171;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Future works;Cycle Plan - 2017/18;20/02/2019;0.000972403758060185
+1172;7;RSP Network (Mounts Bay Road);WA Government;Regional Route;Pedestrian priority zone;Existing - to be retained; ;20/02/2019;0.000615187713622846
+1173;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.00426908870139915
+1174;21;Kings Park Road;City of Perth;Regional Route;To be determined;Future works;Cycle Plan - 2018/19;20/02/2019;0.0120308501004804
+1175;33;Aberdeen Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.00425767317387547
+1176;0;PSP - Other LG;WA Government;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00132327466553889
+1177;56;Irwin Street;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2017/18;20/02/2019;0.00113335846694999
+1178;14;Murray Street;City of Perth;Integrated Cycling Route;Integrated;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00581189816540535
+1179;70;Perth Stadium;WA Government;Pedestrian Priority Zone;Pedestrian priority zone;Current works;N/A - Work by others;20/02/2019;0.00388047126704537
+1180;43;Museum Street;City of Perth;Integrated Cycling Route;Integrated;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00102799490247581
+1181;67;Claisebrook Cove;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Existing - to be retained;;20/02/2019;0.00527417766332061
+1182;69;Heirisson Island;To be determined;Pedestrian Priority Zone;Pedestrian priority zone;Future works; ;20/02/2019;0.00482736801063273
+1183;17;Hay Street;City of Perth;Integrated Cycling Route;Integrated;Future works; ;20/02/2019;0.00141585552910716
+1184;40;Lake Street;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00335384778059946
+1185;15;Goderich Street;City of Perth;City Cycle Route;To be determined;Future works;Cycle Plan - 2020/21;20/02/2019;0.0117976228515545
+1186;2;PSP Network (Rail Line);WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.000471795021090698
+1187;18;Trinity Avenue;City of Perth;City Cycle Route;Shared path;Existing - to be upgraded;N/A - Works Completed;20/02/2019;0.00306015963660817
+1188;34;Palmerston Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.0017880853346076
+1189;29;Spring Street;City of Perth;Integrated Cycling Route;Integrated;Existing - to be upgraded;Cycle Plan - 2018/19;20/02/2019;0.00221701510230244
+1190;51;Howard Street;City of Perth;Integrated Cycling Route;Integrated;Future works; ;20/02/2019;0.0014812948680184
+1191;2;Loading...;Loading...;Regional Route;Shared path;Existing - to be retained;N/A - Works Completed;20/02/2019;0.018524748789822
+1192;58;Loading...;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.012606670379337
+1193;17;Hay Street;City of Perth;City Cycle Route;Cycle lane;Existing - to be upgraded;;20/02/2019;0.005035695161409
+1194;55;Pier Street;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2018/19;20/02/2019;0.00384383232698717
+1195;31;Loading...;Loading...;City Cycle Route;Cycle lane;Existing - to be retained;N/A - Works Completed;20/02/2019;0.00702371401159504
+1196;14;Murray Street;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2018/19;20/02/2019;0.00607297626877974
+1197;18;Wellington Street;City of Perth;City Cycle Route;Two way dedicated cycleway;Current works;Current works;20/02/2019;0.00514662052546506
+1198;2;PSP Network Temporary Alignment;WA Government;Regional Route;Shared path;Temporary alignment;;20/02/2019;0.00275791220638463
+1199;60;Victory Terrace;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2017/18;20/02/2019;0.00329189529778405
+1200;42;William Street;City of Perth;Integrated Cycling Route;Integrated;Future works;;20/02/2019;0.00549145623351514
+1201;66;East Parade;City of Perth;City Cycle Route;Cycle lane;Existing - to be retained;;20/02/2019;0.00546745749727371
+1202;49;Geoffrey Bolten Avenue;City of Perth;Pedestrian Priority Zone;Pedestrian priority zone;Future works; ;20/02/2019;0.00303627271766611
+1203;26;Milligan Street;City of Perth;Integrated Cycling Route;Integrated;Future works;Cycle Plan - 2017/18;20/02/2019;0.00337827942418002
+1204;2;PSP Network (Rail Line);WA Government;Regional Route;Shared path;Existing - to be retained; ;20/02/2019;0.00296233540101328
