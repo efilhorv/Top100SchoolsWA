@@ -10,10 +10,10 @@ The combination of data analysis and visualization tools offers a holistic view 
 
 Technologies Used
 ## MySQL
-## Python
-## QlikView
+## [Python](https://github.com/efilhorv/Top100SchoolsWA/tree/Python)
+## [QlikView](https://github.com/efilhorv/Top100SchoolsWA/tree/Qlik)
 ## [GeoJSON](https://github.com/efilhorv/Top100SchoolsWA/tree/Data_Geojson)
-## Database Setup
+## [Database](https://github.com/efilhorv/Top100SchoolsWA/tree/Data)
 To get started with the project, follow these steps:
 
 Create a MySQL database: Set up a MySQL database to store the necessary data.
