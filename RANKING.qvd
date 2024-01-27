@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>50668</QvBuildNo>
+   <CreatorDoc>C:\Users\efilh\OneDrive\Documentos\PROJECT_18\Qlik\Vizualization\TOP_100_SCHOOL.qvf</CreatorDoc>
+   <CreateUtcTime>2024-01-11 10:34:50</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>RANKING</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>2020_Rank</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>89</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>704</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Code</FieldName>
+       <BitOffset>18</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>100</NoOfSymbols>
+       <Offset>704</Offset>
+       <Length>1000</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Better_Education_Percentile</FieldName>
+       <BitOffset>7</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>27</NoOfSymbols>
+       <Offset>1704</Offset>
+       <Length>342</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>English</FieldName>
+       <BitOffset>84</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>4</NoOfSymbols>
+       <Offset>2046</Offset>
+       <Length>28</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Location</FieldName>
+       <BitOffset>25</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>82</NoOfSymbols>
+       <Offset>2074</Offset>
+       <Length>905</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Maths</FieldName>
+       <BitOffset>86</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>4</NoOfSymbols>
+       <Offset>2979</Offset>
+       <Length>28</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Median_ATAR</FieldName>
+       <BitOffset>32</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>89</NoOfSymbols>
+       <Offset>3007</Offset>
+       <Length>1283</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>No_eligible_Yr_12_students</FieldName>
+       <BitOffset>43</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>80</NoOfSymbols>
+       <Offset>4290</Offset>
+       <Length>702</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>No_Students_with_an_ATAR</FieldName>
+       <BitOffset>50</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>75</NoOfSymbols>
+       <Offset>4992</Offset>
+       <Length>626</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Perc_students_with_an_ATAR</FieldName>
+       <BitOffset>57</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>96</NoOfSymbols>
+       <Offset>5618</Offset>
+       <Length>1413</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Postcode</FieldName>
+       <BitOffset>12</BitOffset>
+       <BitWidth>6</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>64</NoOfSymbols>
+       <Offset>7031</Offset>
+       <Length>640</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>School_Name</FieldName>
+       <BitOffset>64</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>100</NoOfSymbols>
+       <Offset>7671</Offset>
+       <Length>2602</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Socio_Economi_Status</FieldName>
+       <BitOffset>79</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>27</NoOfSymbols>
+       <Offset>10273</Offset>
+       <Length>216</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>State</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>10489</Offset>
+       <Length>4</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$ascii</String>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>State_Overall_Score</FieldName>
+       <BitOffset>39</BitOffset>
+       <BitWidth>4</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>12</NoOfSymbols>
+       <Offset>10493</Offset>
+       <Length>97</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>Total_Students</FieldName>
+       <BitOffset>72</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>UNKNOWN</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>95</NoOfSymbols>
+       <Offset>10590</Offset>
+       <Length>922</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>11</RecordByteSize>
+   <NoOfRecords>100</NoOfRecords>
+   <Offset>11512</Offset>
+   <Length>1100</Length>
+   <Lineage></Lineage>
+   <Comment></Comment>
+   <EncryptionInfo></EncryptionInfo>
+   <TableTags></TableTags>
+   <ProfilingData></ProfilingData>
+ </QvdTableHeader>
+    1    2    3    4    5    6    7    8 	   9 
+   10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    27    28    29    31     32 "   34 #   35 %   37 &   38 '   39 (   40 )   41 *   42 +   43 ,   44 -   45 .   46 /   47 1   49 2   50 3   51 4   52 5   53 7   55 8   56 9   57 :   58 <   60 =   61 >   62 @   64 A   65 B   66 C   67 D   68 E   69 F   70 G   71 I   73 J   74 K   75 L   76 M   77 N   78 O   79 P   80 Q   81 S   83 T   84 U   85 V   86 W   87 X   88 Y   89 Z   90 [   91 \   92 ]   93 _   95 `   96 a   97 b   98 c   99 d   100    4042 b  1122   1041 Ä  1152   1042 ©  1193 Ö  1157 ·  1249 e  1125   1008 {  1147 t  1396 œ  1231 H  4168 }  1149 –  4048 a  1121   4126 U  1109 ∆  4038 ˝  1277 ¨  4012 S  1107 ì  1171 π  4025 N  1102 ˆ  1526   1299 ∆  1222 =  1085   1309 !  4129 d  1380 ¢  4002 P  4176 b  1378 Ç  1154 "  1314 _  4191 M  1357 Y  1369 ä  1162   1151 Î  1259 ï  1429 ≈  1221 Ÿ  4057 ¡  4033 '  1063    1312 Ä  1408 2  1074 «  1223 ∏  1464 î  1428 N  1358 •  4005 ò  1432 -  1325 .  1326 ¬  4034 á  1415 ~  1406 ¿  4032 ö  1178 R  4178 ≤  4018 N  4174 ]  1373 r  1394   1029 %  4133 Ë  4072 ∫  4026 U  4181 2  4146 0  4144   1055 ®  4008 V  1366 S  4179 ,  1068 ,  4140 ó  1431 ∑  1463   4122 —  4049 ê  1424 /  4143 ‡  4064 X  1368 `  4192 Ω  4029   1304 {  1403   4113 I  1353 ™  1450 O  1103 ”  4051 {ÆG·zÑ?1% {ÆG·z§?4% ∏ÖÎQ∏Æ?6% ∏ÖÎQ∏û?3% {ÆG·zî?2% öôôôôô©?5% ∏ÖÎQ∏æ?12% öôôôôôπ?10% )\è¬ı(º?11% {ÆG·z¥?8% 
+◊£p=
+∑?9% ÏQ∏ÖÎ¡?14% 
+◊£p=
+«?18% §p=
+◊£¿?13% 333333√?15% q=
+◊£pÕ?23% ÏQ∏ÖÎ±?7% {ÆG·zƒ?16% R∏ÖÎQ»?19% öôôôôô…?20% )\è¬ı(Ã?22% ·zÆG· ?21% ∏ÖÎQ∏Œ?24% √ı(\è¬≈?17%       –?25% ÏQ∏ÖÎ—?28% è¬ı(\è“?29%    5    4    3    2 Subiaco Mosman Park Claremont Como Wembley Downs Karrinyup Mount Claremont Mount Lawley Attadale Peppermint Grove Murdoch Dianella Shenton Park Perth Rossmoyne Willetton Sorrento Bull Creek Churchlands Salter Point Swanbourne Fremantle Lesmurdie Australind Bateman Gelorup Bedford Duncraig Mandurah Ardross Secret Harbour Mirrabooka South Perth Southern River Butler Camillo Victoria Park Queens Park East Perth Yalyalup Koondoola Carine Margaret River Darch Warnbro Guildford Middle Swan Aveley Mindarie Armadale Belmont Success Hillarys Ocean Reef Melville Harrisdale Baldivis Manjimup Tuart Hill Vasse Esperance Canning Vale Busselton Bunbury Denmark Morley Woodvale Glen Forrest Joondalup Geraldton Kalgan Langford Greenwood Ellenbrook Leeming Broome Samson Banksia Grove East Victoria Park Parkwood Rockingham Noranda    5    4    3    2 33333cX@97.55 ÕÃÃÃÃ,W@92.7       W@92.5 öôôôô©V@90.65 33333£V@90.55 fffffñV@90.35 33333ìV@90.3      `V@89.5 öôôôôYV@89.4 fffffVV@89.35 ÕÃÃÃÃLV@89.2 ÕÃÃÃÃ<V@88.95 fffff6V@88.85 fffff&V@88.6 33333#V@88.55 öôôôôV@88.4 33333ÛU@87.8      U@87.75 fffffÊU@87.6 ÕÃÃÃÃúU@86.45 fffffñU@86.35 öôôôôyU@85.9 fffffvU@85.85 fffffVU@85.35      PU@85.25 ÕÃÃÃÃLU@85.2 ÕÃÃÃÃ<U@84.95 333333U@84.8      0U@84.75       U@84.5 33333U@84.3 T   84.0 öôôôô˘T@83.9 fffffˆT@83.85 ÕÃÃÃÃÏT@83.7 33333”T@83.3 öôôôô…T@83.15 S   83.0 fffff∂T@82.85 ÕÃÃÃÃ¨T@82.7 fffff¶T@82.6      †T@82.5 fffffñT@82.35 ÕÃÃÃÃåT@82.2 öôôôôiT@81.65      `T@81.5 fffffVT@81.35      PT@81.25 33333CT@81.05 ÕÃÃÃÃ<T@80.95 fffff6T@80.85 333333T@80.8 ÕÃÃÃÃT@80.45 fffffT@80.35 33333T@80.3 33333T@80.05 P   80.0 ÕÃÃÃÃ¸S@79.95 öôôôô˘S@79.9 33333ÛS@79.8 öôôôôÈS@79.65 33333”S@79.3 ÕÃÃÃÃºS@78.95 öôôôôπS@78.9 ÕÃÃÃÃ¨S@78.7 öôôôô©S@78.65 öôôôôôS@78.4 öôôôôiS@77.65 fffffVS@77.35 33333SS@77.3      PS@77.25 33333CS@77.05 fffffS@76.35 33333S@76.05 öôôôô˘R@75.9      R@75.75 ÕÃÃÃÃÏR@75.7 öôôôôÈR@75.65 fffffÊR@75.6 ÕÃÃÃÃ‹R@75.45 fffff÷R@75.35 ÕÃÃÃÃºR@74.95 öôôôô©R@74.65 ÕÃÃÃÃúR@74.45 fffffñR@74.35      êR@74.25 ÕÃÃÃÃåR@74.2 fffffvR@73.85 ÕÃÃÃÃlR@73.7 Ú   242 ì   147 æ   190 á   135 ~   126 ¬   194 ô   153 ®   168 Å   129 ∞   176 m   109 ß   167 !   33 W  343 ã   139 p  368 Ü   134 â  393 Â   229 Í   234 í   146 ü  415 Æ   174 Ø   175 ‡   224 z   122 6   54 ‰   228 K   75 «   199 ı   245 ê   144 9   57 ™   170 s   115 à   136 ´   171 >   62 ¶   166 ≈   197 t   116 p   112 f   102 k   107 –   208 R   82 Z   90 .   46 a   97 ¢   162 ö   154 ü   159 r   114 @   64 d   100 ò   152 n   110 |   124 œ   207 x   120 ]   93 /   47 °   161 ⁄   218 ”   211 D   68 Ö   133 N  334 É   131 è   143 S   83 %   37 }   125 +   43 ^   94 À   203 £   163 *   42 û   158 g   103 Ú   242 Ü   134 Ø   175 t   116 p   112 ©   169 Ä   128 Ñ   132 x   120 a   97 T   84     32 ˆ   246 e   101   274 [   91   277 ì   147 ò   152   263 l   108 Ç   130 í   146 =   61    25 å   140 ~   126 k   107 _   95 S   83 ë   145 4   52 w   119 #   35 $   36    29 R   82 +   43 Z   90 '   39 9   57 U   85 .   46 B   66 M   77    21 Q   81 ;   59 )   41    31    26 q   113 \   92 E   69    27    28 C   67 *   42 3   51 "   34 ,   44    20 d   100 >   62 (   40 6   54 :   58    22 A   65 <   60 -   45 @   64 0   48 %   37 G   71 d   100.0 
+◊£p= V@91.16 ◊£p=
+W@92.11 ÏQ∏Ö{U@85.93 )\è¬ı8V@88.89 ◊£p=
+«U@87.11 
+◊£p=ÍT@83.66 ÆG·z§S@78.57 {ÆG·zV@89.92 ÏQ∏ÖQ@68.18 è¬ı(\?V@88.99 fffff&I@50.3 ÆG·z>X@96.97 ÆG·zÓQ@71.72 
+◊£p=*R@72.66 =
+◊£pùR@74.46 
+◊£p=˙P@67.91 ÖÎQ∏ûQ@70.48 \è¬ı(P@64.19 =
+◊£p=P@64.96 \è¬ı(åT@82.19 è¬ı(\ØO@63.37 )\è¬ıO@62.07 √ı(\èíR@74.29 ÏQ∏ÖKP@65.18 2   50.0 fffff&G@46.3 33333≥N@61.4 ÖÎQ∏UT@81.33 ÕÃÃÃÃÏJ@53.85 33333ìK@55.15 {ÆG·⁄D@41.71 \è¬ı(¸N@61.97 ∏ÖÎQ85@21.22 )\è¬ı®T@82.64 ÆG·z.5@21.18 ˆ(\è¬UC@38.67 33333”Q@71.3 ÖÎQ∏û?@31.62 ÏQ∏ÖãP@66.18      `P@65.5 33333sO@62.9 ÏQ∏Ö+A@34.34 33333ìE@43.15 ÆG·z‘C@39.66 ◊£p=
+wM@58.93 è¬ı(\ﬂR@75.49 ÏQ∏ÖkB@36.84 ÕÃÃÃÃÏR@75.7 ÖÎQ∏^<@28.37 
+◊£p=™O@63.33 )\è¬ıÿP@67.39 ÕÃÃÃÃÃ:@26.8 
+◊£p=ä:@26.54 ∏ÖÎQXR@73.38 {ÆG·∫J@53.46 öôôôôYG@46.7 §p=
+◊CN@60.53 ∏ÖÎQE@42.19    28.0 
+◊£p=
+F@44.08 R∏ÖÎ—?@31.82 è¬ı(\Ô@@33.87 ÆG·zŒC@39.61 {ÆG·*S@76.67 
+◊£p=JJ@52.58 H·zÆGB@36.56 =
+◊£pΩA@35.48 fffffFE@42.55 fffff&@@32.3 §p=
+◊CC@38.53 è¬ı(\œ7@23.81 R∏ÖÎ±G@47.39 ÏQ∏ÖÀV@91.18 q=
+◊£∞B@37.38 ÆG·zÙO@63.91 33333Û:@26.95 \è¬ı(úD@41.22 H·zÆGD@40.56 §p=
+◊CP@65.06 ·zÆGëQ@70.27 ffffffB@36.8 ÆG·zéN@61.11 ÆG·zîI@51.16 \è¬ı(F@44.22 fffff&C@38.3 \è¬ı(úC@39.22 ÖÎQ∏9@25.12 
+◊£p= @@33.58 ·zÆG°C@39.26 ÕÃÃÃÃ<T@80.95 ÕÃÃÃÃ5@21.05 R∏ÖÎëD@41.14 
+◊£p=JF@44.58 \è¬ı(úM@59.22 ÕÃÃÃÃF@44.1 x  6008 |  6012 z  6010   6152 É  6019 Ç  6018 ¢  6050   6156 {  6011   6150 ´  6059 p  6000   6148   6155 Ñ  6020   6149   6160 º  6076 Y  6233 V  6230 §  6052 á  6023 B  6210 	  6153   6173 ≠  6061   6151 ﬁ  6110 î  6036 ﬂ  6111 ‘  6100 €  6107 t  6004 à  6280 ∞  6064 ç  6285 ±  6065   6169 ß  6055 ®  6056 µ  6069 é  6030 ‡  6112 ÿ  6104   6164 â  6025 ã  6027   6171 r  6258 ¨  6060 2  6450 Ω  6333 Æ  6062 ä  6026 ∑  6071 Ç  6530 ∫  6330   6147 à  6024 E  6725   6163 è  6031 ’  6101   6168 Perth Modern School St Hilda'S Anglican School For Girls Christ Church Grammar School Penrhos College Methodist Ladies' College Hale School St Mary'S Anglican Girls' School John Xxiii College Perth College Santa Maria College Presbyterian Ladies College Kennedy Baptist College Carmel School Shenton College Mercedes College Rossmoyne Senior High School Iona Presentation College Willetton Senior High School Sacred Heart College Mount Lawley Senior High School All Saints' College Churchlands Senior High School Aquinas College Scotch College John Curtin College Of The Arts Mazenod College Our Lady Of Mercy College Corpus Christi College Bunbury Cathedral Grammar School Chisholm Catholic College St Stephen'S School Duncraig Senior High School Mandurah Catholic College Applecross Senior High School Comet Bay College John Septimus Roe Anglican Community School Wesley College Providence Christian College Butler College John Wollaston Anglican Community School Ursula Frayne Catholic College St Norbert College Trinity College Newman College Georgiana Molloy Anglican School Mercy College Carine Senior High School Margaret River Senior High School Christian Brothers' College Kingsway Christian College Living Waters Lutheran College Guildford Grammar School La Salle College Swan Valley Anglican Community School Peter Moyes Anglican Community School John Calvin Christian College Belmont City College Emmanuel Catholic College St Mark'S Anglican Community School Prendiville Catholic College Melville Senior High School Carey Baptist College Tranby College Manjimup Senior High School Servite College Cape Naturaliste College Esperance Senior High School Canning Vale College Frederick Irwin Anglican School St Mary Mackillop College Bunbury Catholic College Lesmurdie Senior High School Denmark Senior High School John Forrest Secondary College Ashdale Secondary College Australind Senior High School Woodvale Secondary College Helena College Bunbury Senior High School Lake Joondalup Baptist College Manea Senior College Nagle Catholic College Ocean Reef Senior High School Great Southern Grammar School Al-Ameen College Greenwood College Como Secondary College Ellenbrook Christian College Leeming Senior High School Broome Senior High School Seton Catholic College Joseph Banks Secondary College Kent Street Senior High School Swan Christian College Geraldton Grammar School Lynwood Senior High School Kolbe Catholic College Holy Cross College St Brigid'S College Morley Senior High School b   98 `   96 a   97 _   95 ]   93 P   80 Q   81 U   85 T   84 Y   89 N   78 K   75 Z   90 G   71 V   86 S   83 M   77 ?   63 H   72 @   64 >   62 O   79 E   69 R   82 F   70 L   76 J   74 WA d   100 c   99 b   98 _   95 `   96 a   97 ]   93 ^   94 [   91 \   92 Z   90 X   88 ©  1449 i  1129   1776   1048 ,  1068 Y  1625 ¬  1474 *  1578 ¸  1020 F  1350 √  963    1226 £  419 
+  2800 T  852 -
+  2605 *  1322 ñ
+  2710 «  1479 ±  1969 á  1415 p	  2416 8  1336   1538 Ï  1772 Q  849 g  871   1823 ñ  662 ∑  1719 ù  2205 ˇ  1791 ¶  1702 =  1853 ⁄  1754 ®  1704   1308 o  879 ¿  1216 ¥  1204 ‘  1492 ï  917 +  1323 `  1888 ™  1194 N  1614 e	  2405 ä  1162 u  885 î  1428 ÿ  728    1312 <  1340 l  1388 s  371 ∏  952 É  1155 9  1849 "  1058 d  1380   1549 =  829 ,  556 ﬁ  990 B  1090 (  808 >  1342 n  1646 £  931 –  976 ®  424 D  1092 "  1826 o  1135 =  1341 Ô  751 ƒ  964 Ñ  1412 Í  490 ü  1183   1301 z  634 ⁄  986 2  818 p  1136   775   1026 ß  1447 f  1126 ]  605 î  1172 ¡  1217 "  1314 +  811 	  1033            ÅÅÅ  1É@Ñ!Ñ BÖ(
+Ö ÜQ
+Ü0Ü á á8á àb Aà	s$âI 	âaäÇ(
+R$
+äQãì,Z(ãQ†0`,å 4çh0ç ≥8éq4éë¿<x8è@Ç< êQ“Dà@"ë„H íëD$íaìdLìöH&ÚP"î† (î UT$ï™L*ïQñ5X&ñ±P,ñqó"\(πT.óa*¡X0òe,À\2ô≤$i.ô”`4cöñl0öŸd6õaõ4q2õ‚\8ú!õCu4öh:ùSWy6ú+l<û°ùU}6ùp2dùeÅ8ùÎt> †dûrÖ:ôx@!°Üâ<Û|B""£ñç>[(##£†°ë@†¯ÄD$§ !µïB°Ö6%•Q¢√ôD¢
+âF&¶Q£◊ùF#‰åH''ı§„°H$ëJ(®a%˜•J•ïL)©e&™L&ôN*™!'W¨$ß#P+´°®≤N®+ùR,,§©(∂P©3°T--§*Â∏R*:•V..f*5æT*B©X//f+	¡*+K≠Z00∂,D∆V,R±\1±a-T X-µ^2≤a.gŒZÆ[π`3≥°/w“\ØcΩb4¥°Øâ÷^Øl¡25ñ∂0ö⁄`∞t°d65∑±†ﬁb±x≈f7∂≤∞‚d≤Ä…h8∑≥∆Êf≥âïj9∏a≥÷Íh≥ëÕl:πa¥ÈÓj¥ú•n;∫ß5tl5:—p<;h∂°ˆn∂†’r=º∂Ò˙p∂®Ÿt>Ω∑ˇr∑±›v?æa∏u∏π·x@øa9wπƒÖzA¿Á∫*y∫ÃÂ|B¡Ëª⁄{ª‘ë~C¬Ëºf9ºŸ—ÄD√b=}=ÑÈÇEπ>:>‰ÌÑFDπ>->ÀÒÜG≈©?6#Å?ÎıàH∆©@K'É@ı}äIG˙AK*WA¸)åJ»ÈB+-/BÑéK…È√[3ÖC˙êL ™Dd7áD
+˛íMÀaE49EZïNÃa∆È>â∆¶ñOÕ±G:A«öòPŒ±G{GãG"õQœ°HÏJk»,
+ùR–ÒIåOç…4üS—ÒJòSè : †TOVÀßWëKD™¢URªÃ9XÃ$∞§V”∑Må^ìMMßWúˆŒÛ`ïN
+©XT#OºgóOUä™YUı–√kôP2≠Z÷+Q÷oõQ]ÍÆ[W3RÈsùRÖ±\XtR|v]Re≥]¯”x{ã”kÓ¥^ŸcTñüT€ ∑_Zd’˜É°Utπ`[º÷åÜìV5&ªa‹¸Wâ-W}^ºb›ıXMè£ÿı)øc^˝
